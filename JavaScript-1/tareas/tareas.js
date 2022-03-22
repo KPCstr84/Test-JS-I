@@ -3,12 +3,12 @@
 // Recuerda que una función siempre devuelve un valor. (return)
 
 // Nota: No modificar los nombres de las funciones y no utilizar console.log
-// Caso contrario, no correrán los test!
+// Caso contrario, no cgit addorrerán los test!
 
 // En estas primeras consignas, reemplaza `null` por la respuesta correcta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = "hola";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
